@@ -1,0 +1,15 @@
+{
+    "quotes":
+    [
+        {
+            "id":1,
+            "title":"mynameJocker",
+            "image":"qshqjsh"
+
+        },
+        {
+            "id":2,
+            "name":"myname"
+        }
+    ]
+}
